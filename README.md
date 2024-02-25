@@ -1,2 +1,2 @@
-# prabhat-digital-men
+# prabhat-digital-menu
 Hotels Digital Menu
